@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/employee-kubernetes-service/employee-kubernetes-service.iml" filepath="$PROJECT_DIR$/employee-kubernetes-service/employee-kubernetes-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee-service/employee-service.iml" filepath="$PROJECT_DIR$/employee-service/employee-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/person-service/person-service.iml" filepath="$PROJECT_DIR$/person-service/person-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sample-hazelcast-spring-datagrid.iml" filepath="$PROJECT_DIR$/sample-hazelcast-spring-datagrid.iml" />
+    </modules>
+  </component>
+</project>
